@@ -120,4 +120,4 @@ fi
 export MICRO_TRUECOLOR=1
 
 # Rice on terminal launch
-neofetch
+colorscript -r
