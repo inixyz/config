@@ -1,0 +1,17 @@
+{
+	//~/.config/sublime-text/Packages/User
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+
+	"remember_open_files": false,
+	"hot_exit": false,
+
+	"font_face": "Fira code medium",
+    "font_size": 16,
+    "font_options": ["no_liga", "no_clig", "no_calt"],
+
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+}
