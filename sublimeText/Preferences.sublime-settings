@@ -2,18 +2,18 @@
 // and are overridden in turn by syntax-specific settings.
 {
     //~/.config/sublime-text/Packages/User
-    "theme": "Adaptive.sublime-theme",
+    "theme": "ayu-dark.sublime-theme",
 
     "remember_open_files": false,
     "hot_exit": false,
 
     "font_face": "Roboto mono Medium",
-    "font_size": 15,
+    "font_size": 18,
     "font_options": ["no_liga", "no_clig", "no_calt"],
 
     "ignored_packages":
     [
         "Vintage",
     ],
-    "color_scheme": "Packages/Visual Studio Dark/Visual Studio Dark.tmTheme",
+    "color_scheme": "ayu-dark.sublime-color-scheme",
 }
