@@ -2,18 +2,18 @@
 // and are overridden in turn by syntax-specific settings.
 {
     //~/.config/sublime-text/Packages/User
-    "theme": "ayu-dark.sublime-theme",
+    "theme": "Adaptive.sublime-theme",
 
     "remember_open_files": false,
     "hot_exit": false,
 
-    "font_face": "Roboto mono Medium",
-    "font_size": 18,
+    "font_face": "Source Code Pro SemiBold",
+    "font_size": 20,
     "font_options": ["no_liga", "no_clig", "no_calt"],
 
     "ignored_packages":
     [
         "Vintage",
     ],
-    "color_scheme": "ayu-dark.sublime-color-scheme",
+    "color_scheme": "Packages/Materialize/schemes/Material Monokai Soda.tmTheme",
 }
