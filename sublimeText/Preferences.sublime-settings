@@ -8,12 +8,12 @@
     "hot_exit": false,
 
     "font_face": "Source Code Pro SemiBold",
-    "font_size": 20,
+    "font_size": 16,
     "font_options": ["no_liga", "no_clig", "no_calt"],
 
     "ignored_packages":
     [
         "Vintage",
     ],
-    "color_scheme": "Packages/Materialize/schemes/Material Monokai Soda.tmTheme",
+    "color_scheme": "Packages/Monokai Dark/Monokai Dark.tmTheme",
 }
