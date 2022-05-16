@@ -1,19 +1,17 @@
 // Settings in here override those in "Default/Preferences.sublime-settings",
 // and are overridden in turn by syntax-specific settings.
 {
-    //~/.config/sublime-text/Packages/User
-    "theme": "Adaptive.sublime-theme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"color_scheme": "gruvbox (Dark) (Hard) NDC.sublime-color-scheme",
+	"theme": "Adaptive.sublime-theme",
 
-    "remember_open_files": false,
+	"remember_open_files": false,
     "hot_exit": false,
 
-    "font_face": "Source Code Pro SemiBold",
+	"font_face": "InputMono Medium",
     "font_size": 16,
     "font_options": ["no_liga", "no_clig", "no_calt"],
-
-    "ignored_packages":
-    [
-        "Vintage",
-    ],
-    "color_scheme": "Packages/Monokai Dark/Monokai Dark.tmTheme",
 }
