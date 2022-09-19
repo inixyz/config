@@ -5,13 +5,13 @@
 	[
 		"Vintage",
 	],
-	"color_scheme": "gruvbox (Dark) (Hard) NDC.sublime-color-scheme",
-	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Packages/Earthbound Themes/earthbound_moonside.tmTheme",
+	"theme": "gruvbox.sublime-theme",
 
 	"remember_open_files": false,
     "hot_exit": false,
 
-	"font_face": "InputMono Medium",
-    "font_size": 16,
+	"font_face": "Source Code Pro Medium",
+    "font_size": 14,
     "font_options": ["no_liga", "no_clig", "no_calt"],
 }
