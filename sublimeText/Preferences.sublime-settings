@@ -3,8 +3,8 @@
 	[
 		"Vintage",
 	],
-	"color_scheme": "Monokai.sublime-color-scheme",
-	"theme": "Default Dark.sublime-theme",
+	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+	"theme": "Adaptive.sublime-theme",
 
 	"remember_open_files": false,
     "hot_exit": false,
