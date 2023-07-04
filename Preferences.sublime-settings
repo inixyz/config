@@ -4,13 +4,13 @@
 		"Vintage",
 	],
 	
-	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+	"color_scheme": "Solarized (dark).sublime-color-scheme",
 	"theme": "Adaptive.sublime-theme",
 
 	"remember_open_files": false,
-    	"hot_exit": false,
+    "hot_exit": false,
 
-	"font_face": "Source Code Pro Medium",
-    	"font_size": 18,
-    	"font_options": ["no_liga", "no_clig", "no_calt"]
+	"font_face": "Fira Mono Medium",
+    "font_size": 15,
+    "font_options": ["no_liga", "no_clig", "no_calt"]
 }
