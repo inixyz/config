@@ -11,6 +11,8 @@
     "hot_exit": false,
 
 	"font_face": "Fira Mono Medium",
-    "font_size": 15,
-    "font_options": ["no_liga", "no_clig", "no_calt"]
+    "font_size": 23,
+    "font_options": ["no_liga", "no_clig", "no_calt"],
+
+    "rulers": [80]
 }
