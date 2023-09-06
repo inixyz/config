@@ -11,8 +11,11 @@
     "hot_exit": false,
 
 	"font_face": "Fira Mono Medium",
-    "font_size": 23,
+    "font_size": 18,
     "font_options": ["no_liga", "no_clig", "no_calt"],
 
-    "rulers": [80]
+    "rulers": [80],
+    "open_files_in_new_window": false,
+    "highlight_modified_tabs": true,
+    "fold_buttons": false
 }
