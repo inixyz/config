@@ -2,6 +2,7 @@
     "backup": false,
     "colorcolumn": 80,
     "colorscheme": "custom",
+    "linter": false,
     "rmtrailingws": true,
     "softwrap": true
 }
