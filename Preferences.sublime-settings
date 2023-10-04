@@ -1,0 +1,21 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+
+	"remember_open_files": false,
+	"hot_exit": false,
+
+	"font_face": "Monospace",
+	"font_size": 12,
+	"font_options": ["no_liga", "no_clig", "no_calt"],
+
+	"rulers": [80],
+	"open_files_in_new_window": false,
+	"highlight_modified_tabs": true,
+	"fold_buttons": false,
+
+	"color_scheme": "Packages/Agila Theme/Markdown/Neon Monocyanide Markdown.tmTheme",
+	"theme": "Adaptive.sublime-theme",
+}
