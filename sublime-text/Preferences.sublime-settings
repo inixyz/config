@@ -16,6 +16,6 @@
 	"highlight_modified_tabs": true,
 	"fold_buttons": false,
 
-	"color_scheme": "Packages/Earthbound Themes/earthbound_moonside.tmTheme",
+	"color_scheme": "Packages/Visual Studio Dark/Visual Studio Dark.tmTheme",
 	"theme": "Adaptive.sublime-theme",
 }
