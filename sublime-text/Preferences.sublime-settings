@@ -1,4 +1,11 @@
 {
+	//installed packages:
+	//Discord rich presence
+	//Solarized color scheme
+	//A file icon
+	//LSP
+	//LSP-clangd
+
 	"ignored_packages":
 	[
 		"Vintage",
@@ -7,15 +14,15 @@
 	"remember_open_files": false,
 	"hot_exit": false,
 
-	"font_face": "Cascadia Mono",
-	"font_size": 13,
+	"font_face": "Comic Code",
+	"font_size": 14,
 	"font_options": ["no_liga", "no_clig", "no_calt"],
 
 	"rulers": [80, 100],
 	"open_files_in_new_window": false,
 	"highlight_modified_tabs": true,
 	"fold_buttons": false,
-
-	"color_scheme": "Packages/Visual Studio Dark/Visual Studio Dark.tmTheme",
+	"color_scheme": "Solarized (dark).sublime-color-scheme",
 	"theme": "Adaptive.sublime-theme",
+	"index_files": true,
 }
