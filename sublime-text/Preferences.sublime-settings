@@ -13,8 +13,8 @@
 
 	"remember_open_files": false,
 	"hot_exit": false,
-
-	"font_face": "Comic Code",
+	
+	"font_face": "Cascadia Mono", //semi light
 	"font_size": 14,
 	"font_options": ["no_liga", "no_clig", "no_calt"],
 
