@@ -1,7 +1,8 @@
 {
 	//installed packages:
+
 	//Discord rich presence
-	//Solarized color scheme
+	//Earthbound themes
 	//A file icon
 	//LSP
 	//LSP-clangd
@@ -22,7 +23,7 @@
 	"open_files_in_new_window": false,
 	"highlight_modified_tabs": true,
 	"fold_buttons": false,
-	"color_scheme": "Solarized (dark).sublime-color-scheme",
+	"color_scheme": "Packages/Earthbound Themes/earthbound_moonside.tmTheme",
 	"theme": "Adaptive.sublime-theme",
 	"index_files": true,
 }
