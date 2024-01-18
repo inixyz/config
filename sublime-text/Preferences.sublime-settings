@@ -4,6 +4,7 @@
 // a file icon
 // lsp
 // lsp-clangd
+// markdownedited
 
 {
 	"ignored_packages": ["Vintage"],
