@@ -1,29 +1,34 @@
+// installed packages
+// discord rich presence
+// dracula theme
+// a file icon
+// lsp
+// lsp-clangd
+
 {
-	//installed packages:
+	"ignored_packages": ["Vintage"],
 
-	//Discord rich presence
-	//Earthbound themes
-	//A file icon
-	//LSP
-	//LSP-clangd
+	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+	"theme": "Adaptive.sublime-theme",
 
-	"ignored_packages":
-	[
-		"Vintage",
-	],
-
-	"remember_open_files": false,
-	"hot_exit": false,
-	
-	"font_face": "Cascadia Mono", //semi light
+	"font_face": "Fira Mono", // medium
 	"font_size": 14,
 	"font_options": ["no_liga", "no_clig", "no_calt"],
 
+	"fold_buttons": false,
+	"mini_diff": false,
 	"rulers": [80, 100],
+	"ruler_style": "stippled",
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false,
+	"highlight_line": true,
+	"trim_trailing_white_space_on_save": "not_on_caret",
+	"save_on_focus_lost": true,
 	"open_files_in_new_window": false,
 	"highlight_modified_tabs": true,
-	"fold_buttons": false,
-	"color_scheme": "Packages/Earthbound Themes/earthbound_moonside.tmTheme",
-	"theme": "Adaptive.sublime-theme",
-	"index_files": true,
+	"hot_exit": false,
+	"remember_open_files": false,
+	"relative_line_numbers": true,
+	"index_files": true
 }
