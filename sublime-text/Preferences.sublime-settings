@@ -12,7 +12,7 @@
 	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
 	"theme": "Adaptive.sublime-theme",
 
-	"font_face": "Fira Mono", // medium
+	"font_face": "Fira Mono", // Regular
 	"font_size": 14,
 	"font_options": ["no_liga", "no_clig", "no_calt"],
 
