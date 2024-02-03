@@ -1,18 +1,18 @@
-// installed packages
-// discord rich presence
-// dracula theme
-// a file icon
-// lsp
-// lsp-clangd
-// markdownediting
+/* installed packages:
+	- lsp
+	- lsp-clangd
+	- a file icon
+	- discord rich presence
+	- gruvbox
+*/
 
 {
 	"ignored_packages": ["Vintage"],
 
-	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+	"color_scheme": "gruvbox (Dark) (Hard) NDC.sublime-color-scheme",
 	"theme": "Adaptive.sublime-theme",
 
-	"font_face": "Fira Mono", // Regular
+	"font_face": "Source Code Pro", // Regular
 	"font_size": 14,
 	"font_options": ["no_liga", "no_clig", "no_calt"],
 
@@ -31,5 +31,5 @@
 	"hot_exit": false,
 	"remember_open_files": false,
 	"relative_line_numbers": true,
-	"index_files": true
+	"index_files": true,
 }
