@@ -12,7 +12,7 @@
 	"color_scheme": "gruvbox (Dark) (Hard) NDC.sublime-color-scheme",
 	"theme": "Adaptive.sublime-theme",
 
-	"font_face": "Source Code Pro", // Regular
+	"font_face": "Cascadia Mono", // Regular
 	"font_size": 12,
 	"font_options": ["no_liga", "no_clig", "no_calt"],
 
