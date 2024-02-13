@@ -7,9 +7,7 @@
 */
 
 {
-	"ignored_packages": [],
-	"vintage_start_in_command_mode": true,
-	"vintage_use_clipboard": true,
+	"ignored_packages": ["Vintage"],
 
 	"color_scheme": "gruvbox (Dark) (Hard) NDC.sublime-color-scheme",
 	"theme": "Adaptive.sublime-theme",
@@ -32,6 +30,5 @@
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"remember_open_files": false,
-	"relative_line_numbers": true,
 	"index_files": true,
 }
