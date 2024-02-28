@@ -7,7 +7,8 @@
 */
 
 {
-	"ignored_packages": ["Vintage"],
+	"ignored_packages": ["Vintage",
+	],
 
 	"color_scheme": "gruvbox (Dark) (Hard) NDC.sublime-color-scheme",
 	"theme": "Adaptive.sublime-theme",
@@ -24,6 +25,8 @@
 	"translate_tabs_to_spaces": true,
 	"word_wrap": false,
 	"highlight_line": true,
+	"line_padding_top": 1,
+	"line_padding_bottom": 1,
 	"trim_trailing_white_space_on_save": "not_on_caret",
 	"save_on_focus_lost": true,
 	"open_files_in_new_window": false,
