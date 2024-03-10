@@ -1,14 +1,11 @@
 /* installed packages:
-	- lsp
-	- lsp-clangd
 	- a file icon
 	- discord rich presence
 	- gruvbox
 */
 
 {
-	"ignored_packages": ["Vintage",
-	],
+	"ignored_packages": ["Vintage"],
 
 	"color_scheme": "gruvbox (Dark) (Hard) NDC.sublime-color-scheme",
 	"theme": "Adaptive.sublime-theme",
