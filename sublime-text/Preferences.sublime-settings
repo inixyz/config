@@ -1,13 +1,13 @@
 /* installed packages:
 	- a file icon
 	- discord rich presence
-	- gruvbox
+	- github theme
 */
 
 {
 	"ignored_packages": ["Vintage"],
 
-	"color_scheme": "gruvbox (Dark) (Hard) NDC.sublime-color-scheme",
+	"color_scheme": "GitHub Dark Legacy.sublime-color-scheme",
 	"theme": "Adaptive.sublime-theme",
 
 	"font_face": "Fira Mono Medium",
