@@ -1,13 +1,13 @@
 /* installed packages:
 	- a file icon
 	- discord rich presence
-	- cyanide theme
+	- ayu theme
 */
 
 {
 	"ignored_packages": ["Vintage"],
 
-	"color_scheme": "Packages/Theme - Cyanide/Cyanide - Acid.tmTheme",
+	"color_scheme": "ayu-dark.sublime-color-scheme",
 	"theme": "Adaptive.sublime-theme",
 
 	"font_face": "ProggyVector",
@@ -38,3 +38,4 @@
 		},
 	},
 }
+
