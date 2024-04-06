@@ -1,17 +1,17 @@
 /* installed packages:
 	- a file icon
 	- discord rich presence
-	- github theme
+	- cyanide theme
 */
 
 {
 	"ignored_packages": ["Vintage"],
 
-	"color_scheme": "GitHub Dark Legacy.sublime-color-scheme",
+	"color_scheme": "Packages/Theme - Cyanide/Cyanide - Acid.tmTheme",
 	"theme": "Adaptive.sublime-theme",
 
-	"font_face": "Fira Mono Medium",
-	"font_size": 12,
+	"font_face": "ProggyVector",
+	"font_size": 13,
 	"font_options": ["no_liga", "no_clig", "no_calt"],
 
 	"fold_buttons": false,
@@ -22,8 +22,8 @@
 	"translate_tabs_to_spaces": true,
 	"word_wrap": false,
 	"highlight_line": true,
-	"line_padding_top": 1,
-	"line_padding_bottom": 1,
+	"line_padding_top": 2,
+	"line_padding_bottom": 2,
 	"trim_trailing_white_space_on_save": "not_on_caret",
 	"save_on_focus_lost": true,
 	"open_files_in_new_window": false,
@@ -31,4 +31,10 @@
 	"hot_exit": false,
 	"remember_open_files": false,
 	"index_files": true,
+
+	"syntax_specific": {
+		"C++": {
+			"tab_size": 2,
+		},
+	},
 }
