@@ -1,16 +1,16 @@
 /* installed packages:
 	- a file icon
 	- discord rich presence
-	- ayu theme
+	- afterglow theme
 */
 
 {
 	"ignored_packages": ["Vintage"],
 
-	"color_scheme": "ayu-dark.sublime-color-scheme",
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow-markdown.tmTheme",
 	"theme": "Adaptive.sublime-theme",
 
-	"font_face": "ProggyVector",
+	"font_face": "Fira Mono",
 	"font_size": 13,
 	"font_options": ["no_liga", "no_clig", "no_calt"],
 
@@ -38,4 +38,3 @@
 		},
 	},
 }
-
