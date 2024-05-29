@@ -11,7 +11,7 @@
 	"theme": "Adaptive.sublime-theme",
 
 	"font_face": "Fira Mono",
-	"font_size": 13,
+	"font_size": 14,
 	"font_options": ["no_liga", "no_clig", "no_calt"],
 
 	"fold_buttons": false,
