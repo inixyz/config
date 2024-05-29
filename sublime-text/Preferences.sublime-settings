@@ -1,13 +1,13 @@
 /* installed packages:
 	- a file icon
 	- discord rich presence
-	- afterglow theme
+	- gruvbox theme
 */
 
 {
 	"ignored_packages": ["Vintage"],
 
-	"color_scheme": "Packages/Theme - Afterglow/Afterglow-markdown.tmTheme",
+	"color_scheme": "gruvbox (Dark) (Hard) NDC.sublime-color-scheme",
 	"theme": "Adaptive.sublime-theme",
 
 	"font_face": "Fira Mono",
