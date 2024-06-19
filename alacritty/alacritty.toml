@@ -10,9 +10,9 @@ opacity = 0.9
 resize_increments = true
 
 [font]
-normal.family = "CaskaydiaMono NFM"
+normal.family = "Hack Nerd Font Mono"
 size = 14
-offset.y = 1
+offset.y = 2
 
 [cursor]
 style = {shape = "Underline", blinking = "Always"}
