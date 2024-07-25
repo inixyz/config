@@ -1,16 +1,17 @@
 /* installed packages:
 	- a file icon
 	- discord rich presence
-	- gruvbox theme
+	- github theme
 */
 
 {
-	"ignored_packages": ["Vintage"],
+	"ignored_packages": ["Vintage",
+	],
 
-	"color_scheme": "gruvbox (Dark) (Hard) NDC.sublime-color-scheme",
 	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "GitHub Dark.sublime-color-scheme",
 
-	"font_face": "Fira Mono",
+	"font_face": "CaskaydiaMono NFM",
 	"font_size": 14,
 	"font_options": ["no_liga", "no_clig", "no_calt"],
 
