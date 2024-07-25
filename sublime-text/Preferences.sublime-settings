@@ -5,8 +5,7 @@
 */
 
 {
-	"ignored_packages": ["Vintage",
-	],
+	"ignored_packages": ["Vintage"],
 
 	"theme": "Adaptive.sublime-theme",
 	"color_scheme": "GitHub Dark.sublime-color-scheme",
