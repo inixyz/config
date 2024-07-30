@@ -5,8 +5,6 @@
 */
 
 {
-	"ignored_packages": ["Vintage"],
-
 	"theme": "Adaptive.sublime-theme",
 	"color_scheme": "GitHub Dark.sublime-color-scheme",
 
@@ -31,6 +29,11 @@
 	"hot_exit": false,
 	"remember_open_files": false,
 	"index_files": true,
+
+	"ignored_packages": [],
+	"vintage_start_in_command_mode": true,
+	"vintage_ctrl_keys": true,
+	"relative_line_numbers": true,
 
 	"syntax_specific": {
 		"C++": {
