@@ -30,11 +30,6 @@
 	"remember_open_files": false,
 	"index_files": true,
 
-	"ignored_packages": [],
-	"vintage_start_in_command_mode": true,
-	"vintage_ctrl_keys": true,
-	"relative_line_numbers": true,
-
 	"syntax_specific": {
 		"C++": {
 			"tab_size": 2,
