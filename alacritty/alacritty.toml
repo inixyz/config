@@ -9,7 +9,7 @@ resize_increments = true
 [font]
 normal = {family = 'SauceCodePro NFM', style = 'Medium'}
 italic = {style = 'Medium Italic'}
-size = 15
+size = 14
 offset.y = 2
 
 # tokyo_night colorscheme
