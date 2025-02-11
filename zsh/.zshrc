@@ -31,7 +31,9 @@ zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}'
 zstyle ':completion:*' list-colors "${(s.:.)LS_COLORS}"
 zstyle ':completion:*' menu no
 zinit snippet OMZP::git
+zinit snippet OMZL::git.zsh
 zinit snippet OMZP::sudo
+zinit snippet OMZP::command-not-found
 
 # set up fzf key bindings and fuzzy completion
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
