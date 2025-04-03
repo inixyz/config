@@ -5,7 +5,7 @@ resize_increments = true
 
 [font]
 normal = { family = 'MonaspiceNe NFM' }
-size = 14
+size = 13
 offset.y = 2
 
 # moonfly colorscheme
