@@ -4,7 +4,7 @@ dynamic_padding = true
 resize_increments = true
 
 [font]
-normal = { family = 'MonaspiceNe NFM' }
+normal = { family = 'SFMono Nerd Font', style = "Medium" }
 size = 13
 offset.y = 2
 
