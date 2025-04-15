@@ -4,8 +4,8 @@ dynamic_padding = true
 resize_increments = true
 
 [font]
-normal = { family = 'SFMono Nerd Font', style = "Medium" }
-size = 13
+normal = { family = "FiraMono Nerd Font Mono", style = "Medium" }
+size = 14
 offset.y = 2
 
 # moonfly colorscheme
