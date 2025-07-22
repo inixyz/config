@@ -39,7 +39,7 @@ zinit snippet OMZP::command-not-found
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 source <(fzf --zsh)
 zinit light Aloxaf/fzf-tab
-zstyle ':fzf-tab-complete:cd:*' fzf-preview 'ls --color $realpath'
+zstyle ':fzf-tab:complete:cd:*' fzf-preview 'ls --color $realpath'
 
 # add auto-suggestions
 zinit light zsh-users/zsh-autosuggestions
