@@ -9,6 +9,7 @@ set hlsearch
 
 set number
 set relativenumber
+set cursorline
 set wildmenu
 
 set noswapfile
