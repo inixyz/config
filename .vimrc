@@ -17,4 +17,4 @@ set mouse=a
 
 syntax on
 set termguicolors
-colorscheme codedark
+colorscheme sorbet
