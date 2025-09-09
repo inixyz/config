@@ -5,7 +5,7 @@ resize_increments = true
 
 [font]
 normal = { family = "SFMono Nerd Font"}
-size = 14
+size = 15
 offset.y = 2
 
 # moonfly colorscheme
