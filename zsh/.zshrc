@@ -6,6 +6,11 @@ fi
 # set the directory where to store zinit and its plugins
 ZINIT_HOME="${XDG_DATA_HOME:-${HOME}/.local/share}/zinit/zinit.git"
 
+# enable brew on macos
+if [[ -f "/opt/homebrew/bin/brew" ]] then
+  eval "$(/opt/homebrew/bin/brew shellenv)"
+fi
+
 # download zinit if it dosent already exist
 if [ ! -d "$ZINIT_HOME" ]; then
 	mkdir -p "$(dirname $ZINIT_HOME)"
