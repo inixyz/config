@@ -2,6 +2,7 @@
 padding = { x = 4, y = 4 }
 dynamic_padding = true
 resize_increments = true
+option_as_alt = "OnlyLeft"
 
 [font]
 normal = { family = "SFMono Nerd Font"}
